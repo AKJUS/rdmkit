@@ -3585,3 +3585,7 @@
   id: dmp-template-euro-bio
   name: Euro-BioImaging's Template for Research Data Management Plans
   url: https://doi.org/10.5281/zenodo.11473803
+- description: The Bioconductor project aims to develop and share open source software (R-based) for precise and repeatable analysis of biological data. 
+  id: bioconductor
+  name: Bioconductor
+  url: https://www.bioconductor.org/
